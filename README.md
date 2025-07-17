@@ -1,1 +1,1 @@
-# Proyecto-Electr-nica
+# Proyecto-Electronica

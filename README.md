@@ -1,5 +1,8 @@
 # Proyecto-NaviCart
 
+<img width="622" height="465" alt="Captura de pantalla 2025-07-25 a la(s) 12 35 08 p m" src="https://github.com/user-attachments/assets/6e534088-a37d-4b0c-a300-9dc3eb6fdf17" />
+
+
 ## Integrantes
 * Jose David Artunduaga Rozo
 * Juan Nicolás Martínez Franco

@@ -31,6 +31,6 @@ Integrar sensores adicionales (por ejemplo, infrarrojos o LIDAR de bajo coste) p
 
 ## WIKI
 
-Para mas información sobre el proyecto, consulte la [Wiki](https://github.com/mi-usuario/mi-repo/wiki).
+Para mas información sobre el proyecto, consulte la [Wiki](https://github.com/Juannico100/Proyecto-NaviCart/wiki).
  
 
